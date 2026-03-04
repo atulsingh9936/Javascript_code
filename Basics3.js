@@ -18,7 +18,7 @@ marks.pop()  // remove from the last
 console.log(marks)
 marks.unshift(12)   // add at the beginnning
 
-console.log(marks)  // [ 12, 20,  40, 35, 14, 37, 100]
+console.log(marks)  // [ 12, 20, 40, 35, 14, 37, 100]
 
 console.log(marks.indexOf(100))
 
