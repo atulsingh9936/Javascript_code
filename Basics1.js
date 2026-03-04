@@ -6,7 +6,7 @@ console.log("Hello world")
 
 */
 
-//var a =4
+var a =4
 
 // var  (let, const) ES6
 
@@ -32,6 +32,11 @@ let f = b+c
 console.log(f)
 
 // we cannot redeclare variable with let keyword but possible with var 
+// reassigning is allowed with let 
 
 
 console.log(!required)
+
+
+const e ="atul";
+e= a+b;
